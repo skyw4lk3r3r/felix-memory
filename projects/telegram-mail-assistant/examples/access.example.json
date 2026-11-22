@@ -1,0 +1,6 @@
+{
+  "dmPolicy": "allowlist",
+  "allowFrom": ["<numeric Telegram user id>"],
+  "groups": {},
+  "pending": {}
+}

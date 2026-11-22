@@ -52,6 +52,8 @@
 ## Проекты
 - **UniHub** (репозиторий uniconnect-hub): React 18, Vite, TypeScript, Tailwind, shadcn/ui. Интеграция с Google Sheets через Apps Script.
 
+- **Telegram-ассистент для университетской почты** (`projects/telegram-mail-assistant/`): пересылка писем Outlook в бота @claudeunibot и ответы на письма из Telegram, личный бот @claudeworkerassistantbot. Описание в `projects/telegram-mail-assistant/README.md`, журнал в `memory/log.md`. Токены и данные писем в репозиторий не кладутся.
+
 ## Техника и интересы
 - iPhone 17 Pro Max, MacBook (Apple Silicon), iPad Pro M5 13", Garmin Fenix 5, reMarkable.
 - HP Prime: программирует на нём свои функции.

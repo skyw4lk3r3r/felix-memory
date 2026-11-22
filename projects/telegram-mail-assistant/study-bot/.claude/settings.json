@@ -1,0 +1,15 @@
+{
+  "enabledPlugins": {
+    "telegram@claude-plugins-official": true
+  },
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/User/telegram-setup/**)",
+      "Edit(//c/Users/User/telegram-setup/**)",
+      "Read(//c/Users/User/.claude/scheduled-tasks/university-mail-to-telegram/mail-index.json)",
+      "Read(//c/Users/User/.claude/channels/telegram/access.json)",
+      "mcp__plugin_telegram_telegram",
+      "mcp__claude-in-chrome"
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "1": {
+    "id": "<Outlook message id>",
+    "from": "Sender Name",
+    "address": "sender@example.com",
+    "subject": "Subject",
+    "date": "Sun 22-Nov-26 14:10"
+  }
+}

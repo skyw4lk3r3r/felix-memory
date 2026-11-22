@@ -1,0 +1,16 @@
+# Секреты и личные данные. Не добавлять в репозиторий.
+.env
+**/.env
+access.json
+seen.json
+mail-index.json
+pending-reply.json
+sent-replies.log
+run.lock
+dryrun.flag
+tmp/
+outgoing/
+inbox/
+workspace/
+*.eml
+*.jsonl
